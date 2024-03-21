@@ -10,6 +10,7 @@ You can find our documentation, tutorials, and more information about our projec
 ### 🤝 Supported by
 - World Quant
 - DB Kim Jun-ki Cultural Foundation
+- Kyungpook National University, Korea
 
 ### 🌟 Contact Us
 - E-mail : dartknu1@gmail.com
