@@ -13,7 +13,7 @@ You can find our documentation, tutorials, and more information about our projec
 - Kyungpook National University, Korea
 
 ### 🌟 Contact Us
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dartknu1@gmail.com)](mailto:dartknu1@gmail.com)
+[![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dartknu1@gmail.com)](mailto:dartknu1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/seong-yun-byeon-8183a8113/](https://www.linkedin.com/company/data-analysis-and-revolutionary-thinking/))]([https://www.linkedin.com/in/seong-yun-byeon-8183a8113/](https://www.linkedin.com/company/data-analysis-and-revolutionary-thinking/)https://www.linkedin.com/company/data-analysis-and-revolutionary-thinking/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/knu_dart/)](https://www.instagram.com/knu_dart/)
 
