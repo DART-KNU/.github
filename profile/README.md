@@ -1,12 +1,18 @@
 ## Hi there 👋
+Welcome to the GitHub Organization of DART! We are a passionate group of students from Kyungpook National University, dedicated to exploring the fascinating world of quantitative analysis in finance. Our mission is to bridge the gap between academic finance theories and real-world financial markets through rigorous quantitative research and innovative financial models.
 
-<!--
+🙋‍♀️ About Us
+In our organization, we focus on developing and sharing quantitative trading strategies, financial models, and analytical tools that can help both newbies and experienced traders to make informed decisions. Whether you're interested in algorithmic trading, data analysis, or financial engineering, you'll find a community of like-minded individuals committed to learning and growing together.
 
-**Here are some ideas to get you started:**
+👩‍💻 Resources
+You can find our documentation, tutorials, and more information about our projects on our GitHub wiki (link to your wiki or docs). For real-time discussions and updates, join our community on Slack/Discord (link to your Slack/Discord).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🤝 Support and Collaboration
+We are grateful for the support from:
+- World Quant
+- DB Kim Jun-ki Cultural Foundation
+
+🌟 Contact Us
+- E-mail : dartknu1@gmail.com
+- Instagram : @knu_dart
+
