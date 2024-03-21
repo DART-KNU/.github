@@ -13,6 +13,6 @@ You can find our documentation, tutorials, and more information about our projec
 - Kyungpook National University, Korea
 
 ### 🌟 Contact Us
-- E-mail : dartknu1@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dartknu1@gmail.com)](mailto:dartknu1@gmail.com)
 - Instagram : @knu_dart
 
