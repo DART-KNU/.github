@@ -7,8 +7,7 @@ In our organization, we focus on developing and sharing quantitative trading str
 👩‍💻 Resources
 You can find our documentation, tutorials, and more information about our projects on our [GitHub wiki](https://github.com/DART-KNU/.github/wiki).
 
-🤝 Support and Collaboration
-We are grateful for the support from:
+🤝 Supported by
 - World Quant
 - DB Kim Jun-ki Cultural Foundation
 
